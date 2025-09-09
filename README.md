@@ -14,6 +14,7 @@ The game continues until the player guesses the correct number, and it also show
 3)Tracks and displays the number of guesses.
 
 4)Fun and beginner-friendly console game in C.
+
 **concepts Used:-**
 
 Loops (do...while)
