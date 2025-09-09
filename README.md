@@ -5,7 +5,9 @@ The Guess the Number Game is a simple C program where the computer randomly sele
 
 "Higher number please" if your guess is too low
 
-The game continues until the player guesses the correct number, and it also shows the total number of attempts taken
+The game continues until the player guesses the correct number, and it also shows the total number of attempts taken.
+
+
 **Features:-**
 1)Generates a random number each time using rand() and srand(time(0)).
 
